@@ -8,7 +8,7 @@ export const projects = [
     tagline: "Explainable URL Threat Intelligence & Real-Time Browser Protection Platform",
     githubUrl: "https://github.com/Kolliboyina-Asritha/ThreatLens",
     liveUrl: "https://threatlens123.netlify.app", // Open source repository with local FastAPI/Node services
-    verifiedLive: false,
+    verifiedLive: true,
     featured: true,
     technologies: [
       "React.js",
@@ -174,7 +174,7 @@ export const projects = [
     tagline: "Full-Stack Vehicle Marketplace with Role-Based Buyer/Seller Dashboards & Razorpay Integration",
     githubUrl: "https://github.com/Kolliboyina-Asritha/Wheelwise",
     liveUrl: "https://buyurdreamvehicle.netlify.app/", // Deployed during internship demonstrations
-    verifiedLive: false,
+    verifiedLive: true,
     featured: true,
     technologies: [
       "JavaScript",
@@ -253,7 +253,7 @@ export const projects = [
     tagline: "Zero-Knowledge Encrypted Notes Platform with Client-Side AES-GCM & Token Reuse Revocation",
     githubUrl: "https://github.com/Kolliboyina-Asritha/shadowNote",
     liveUrl: "https://shadownotee.netlify.app/",
-    verifiedLive: false,
+    verifiedLive: true,
     featured: true,
     technologies: [
       "JavaScript",
